@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@babel/runtime-corejs3": "^7.8.4",
-    "@fortawesome/fontawesome-svg-core": "1.2.26",
+    "@fortawesome/fontawesome-svg-core": "1.2.27",
     "@nuxtjs/axios": "5.9.5",
     "@nuxtjs/google-analytics": "2.2.3",
     "@nuxtjs/pwa": "3.0.0-beta.20",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "@bazzite/nuxt-netlify": "0.1.1",
     "@bazzite/nuxt-optimized-images": "0.3.0",
-    "@wordpress/wordcount": "2.6.2",
+    "@wordpress/wordcount": "2.7.0",
     "babel-eslint": "10.0.3",
     "cross-spawn": "7.0.1",
     "css-loader": "3.4.2",
